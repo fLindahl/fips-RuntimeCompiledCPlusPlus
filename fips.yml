@@ -1,0 +1,11 @@
+#
+# fips-RealtimeCompiledCPlusPlus
+#
+---
+
+exports:
+    header-dirs: 
+    - RuntimeCompiledCPlusPlus/Aurora/
+    modules :
+        RealtimeCompiledCPlusPlus: .
+
